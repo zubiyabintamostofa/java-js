@@ -11,4 +11,4 @@ console.log('eat');
 console.log('drink');
 startFan();
 startFan();
-startFan()
+startFan
